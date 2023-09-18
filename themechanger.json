@@ -1,0 +1,7 @@
+{
+    "name": "themechanger",
+    "description": "Changing firefox theme at runtime",
+    "path": "[path_to_script]/firefox_theme_changer.py",
+    "type": "stdio",
+    "allowed_extensions": ["themechanger@leshuguita.github.io"]
+}
